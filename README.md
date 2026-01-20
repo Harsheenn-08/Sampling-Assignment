@@ -20,7 +20,7 @@ The dataset is imbalanced. The objective is to evaluate how different sampling t
 ## Accuracy Matrix
 ![Accuracy Matrix](Accuracy_matrix.png)
 
-> *Note: Perfect accuracy may occur due to the interaction between sampling techniques and model complexity.*
+> *Note: Perfect accuracy may occur due to the effect of sampling techniques on certain models.*
 
 ## Best Performing Model
 **XGBoost with Sample 4 (SMOTE)**
